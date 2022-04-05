@@ -1,3 +1,4 @@
+#!/bin/bash
 #0x02. Shell, I/O Redirections and filters
 
 0. Hello World - Write a script that prints “Hello, World”, followed by a new line to the standard output.
@@ -16,16 +17,16 @@
 The current and parent directories should not be taken into account
 Hidden directories should be counted
 12. What’s new - Create a script that displays the 10 newest files in the current directory.
-
 Requirements:
-
 One file per line
 Sorted from the newest to the oldest
+
 13. Being unique is better than being perfect - Create a script that takes a list of words as input and prints only words that appear exactly once.
 
 Input format: One line, one word
 Output format: One line, one word
-Words should be sorted
+
+
 14. It must be in that file - Display lines containing the pattern “root” from the file /etc/passwd
 15. Count that word - Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 16. What's next? - Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
