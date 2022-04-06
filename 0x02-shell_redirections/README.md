@@ -1,3 +1,1 @@
-#!/bin/bash
-My README file for the shell redirection task.
-
+My readme file for the redirection task
